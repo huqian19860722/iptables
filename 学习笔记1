@@ -1,0 +1,7 @@
+Iptables
+
+1 简介
+iptables是netfilter的客户端，功能包括：
+网络地址转换(Network Address Translate)
+数据包内容修改
+以及数据包过滤的防火墙功能
